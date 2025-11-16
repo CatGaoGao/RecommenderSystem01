@@ -1,7 +1,7 @@
 # 协同过滤（ItemCF）  
 <img width="991" height="592" alt="image" src="https://github.com/user-attachments/assets/e9feec48-92eb-4bf7-9cab-2cb758440597" />
 
-ItemCF召回的完整流程   
+# ItemCF召回的完整流程   
 <img width="1001" height="605" alt="image" src="https://github.com/user-attachments/assets/c46efd32-69fc-4dd8-90ac-315872b5d184" />
 
 <img width="1029" height="544" alt="image" src="https://github.com/user-attachments/assets/d87e38f5-3db9-4e17-bca2-f03c1a224a69" />
